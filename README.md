@@ -6,7 +6,6 @@ Hello, welcome. I'm Ravell 💻.
 @@Follow my social media below.@@
 + Telegram: @ravellskzz
 - Discord: ravell#0001
-! Follow me
 ➣ Networking Engineer
 ➣ DDoSer 
 ➣ Studying Network Analyst
