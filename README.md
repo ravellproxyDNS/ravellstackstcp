@@ -23,11 +23,9 @@ Hello, welcome. I'm Ravell 💻.
 
 <details>
   <summary> Linguagens </summary>
-  <img src="https://img.shields.io/badge/Javascript-141321"/>
   <img src="https://img.shields.io/badge/Shell Script-141321"/>
-  <img src="https://img.shields.io/badge/Java-141321"/>
-  <img src="https://img.shields.io/badge/Python-141321"/>
   <img src="https://img.shields.io/badge/Golang-141321"/>
+    <img src="https://img.shields.io/badge/Lua-141321"/>
  </details>
 
 
